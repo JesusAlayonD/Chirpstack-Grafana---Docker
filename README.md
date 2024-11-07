@@ -1,6 +1,6 @@
 # Proyecto LoRaWAN
 
-Este repositorio contiene los archivos de docker-compose utilizados para la construcción de un proyecto LoRaWAN que conecta sus datos con Grafana en tiempo real.
+Este repositorio contiene los archivos de docker-compose utilizados para la construcción de un proyecto LoRaWAN que conecta Chirpstack con Grafana en tiempo real.
 
 ## Contenido de carpetas
 
